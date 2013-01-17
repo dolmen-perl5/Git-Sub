@@ -93,6 +93,15 @@ Git::Sub - git commands imported as L<System::Sub> subs in the git:: namespace
     # Commands names with '-' are imported with '_'
     my $master = git::rev_parse 'release';
 
+    # Return in list context is lines (see System::Sub)
+    say for git::ls_tree 'master';
+
+    # Process lines using a callback
+    git::ls_tree 'master' => sub {
+        my ($mode, $type, $object, $file) = split;
+        say $file;
+    };
+
 =head1 DESCRIPTION
 
 Use L<git|http://www.git-scm.com> commands easily from your Perl program. Each

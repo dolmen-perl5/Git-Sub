@@ -37,7 +37,8 @@ package git;
 
 use subs
     # Common commands
-    qw(commit tag push add rm branch checkout clone fetch init log
+    qw(version
+       commit tag push add rm branch checkout clone fetch init log
        mv notes pull push rebase reset revert status),
     # Ancillary commands
     qw(config filter_branch prune remote repack),

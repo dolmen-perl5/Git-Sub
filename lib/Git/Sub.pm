@@ -108,6 +108,17 @@ Git::Sub - git commands imported as L<System::Sub> subs in the git:: namespace
 Use L<git|http://www.git-scm.com> commands easily from your Perl program. Each
 git command is imported as a L<System::Sub> DWIM sub.
 
+=head1 EXAMPLES
+
+=over 4
+
+=item *
+
+The L<release script|https://github.com/dolmen/angel-PS1/blob/devel/dist> of
+my L<angel-PS1|https://github.com/dolmen/angel-PS1> project.
+
+=back
+
 =head1 AUTHOR
 
 Olivier Mengué, C<dolmen@cpan.org>.

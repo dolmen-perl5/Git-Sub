@@ -33,7 +33,8 @@ sub import
     }
 }
 
-package git;
+package # no indexing
+    git;
 
 use subs
     # Common commands

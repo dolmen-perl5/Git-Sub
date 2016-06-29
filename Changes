@@ -1,6 +1,8 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
+	Remove the 'git' namespace from CPAN indexing to avoid conflict
+	with 'Git'.
 
 0.130270     2013-01-27    DOLMEN (Olivier Mengué)
 	Added 'Changes' file.

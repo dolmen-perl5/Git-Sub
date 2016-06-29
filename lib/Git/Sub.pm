@@ -126,7 +126,7 @@ Olivier Mengué, C<dolmen@cpan.org>.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright E<copy> 2013 Olivier Mengué.
+Copyright E<copy> 2016 Olivier Mengué.
 
 This library is free software; you can redistribute it and/or modify it under
 the same terms as Perl 5 itself.

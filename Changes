@@ -1,6 +1,8 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
+
+0.162920     2016-10-18    DOLMEN (Olivier Mengué)
 	Fix tests on MSWin32 platform (GH #4, Paul Durden). Thanks!
 	Repository moved to github.com/dolmen-perl5/Git-Sub
 

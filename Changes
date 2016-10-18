@@ -1,7 +1,7 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
-	Updated tests to allow tests to pass on MsWin32 platform
+	Fix tests on MSWin32 platform (GH #4, Paul Durden)
 
 0.161810     2016-06-30    DOLMEN (Olivier Mengué)
 	Remove the 'git' namespace from CPAN indexing to avoid conflict

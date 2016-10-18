@@ -1,7 +1,8 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
-	Fix tests on MSWin32 platform (GH #4, Paul Durden)
+	Fix tests on MSWin32 platform (GH #4, Paul Durden). Thanks!
+	Repository moved to github.com/dolmen-perl5/Git-Sub
 
 0.161810     2016-06-30    DOLMEN (Olivier Mengué)
 	Remove the 'git' namespace from CPAN indexing to avoid conflict

@@ -1,6 +1,8 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
+
+0.163130     2016-11-08    DOLMEN (Olivier Mengué)
 	Require System::Sub 0.162800 (RT#118114). Thanks BooK!
 
 0.162920     2016-10-18    DOLMEN (Olivier Mengué)

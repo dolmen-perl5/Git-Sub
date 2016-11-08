@@ -1,6 +1,7 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
+	Require System::Sub 0.162800 (RT#118114). Thanks BooK!
 
 0.162920     2016-10-18    DOLMEN (Olivier Mengué)
 	Fix tests on MSWin32 platform (GH #4, Paul Durden). Thanks!

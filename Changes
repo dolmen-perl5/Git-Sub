@@ -1,6 +1,8 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
+	Workaround for perl 5.8.9 bug (RT#118898, GH#5). Thanks BooK for
+	the reporting, and Graham Knop for the fix!
 
 0.163130     2016-11-08    DOLMEN (Olivier Mengué)
 	Require System::Sub 0.162800 (RT#118114). Thanks BooK!

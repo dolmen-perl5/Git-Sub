@@ -1,6 +1,8 @@
 Revision history for System-Sub.
 
 {{$NEXT}}
+
+0.163320     2016-11-27    DOLMEN (Olivier Mengué)
 	Workaround for perl 5.8.9 bug (RT#118898, GH#5). Thanks BooK for
 	the reporting, and Graham Knop for the fix!
 
